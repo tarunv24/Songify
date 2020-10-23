@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background-image: url(music1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.new_account{
+    float: right;
+}
+.form{
+    margin:100px auto 200px;
+}
+table{
+    margin: 30px auto;
+    text-align: center;
+    font-weight: bold;
+}
+.guide{
+    float:right;
+}
+.con{
+    text-align: left;
+}
